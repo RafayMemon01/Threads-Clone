@@ -247,6 +247,7 @@ textarea#TextArea.textArea{
     font-size: 14px;
     line-height: 1.5;
     height: 60%;
+    resize:none;
 }
 div.mainContentDiv{
  margin-left: 10px; 
