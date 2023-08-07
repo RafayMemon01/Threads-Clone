@@ -150,6 +150,7 @@ textarea#TextArea.textArea{
   letter-spacing: 1.5px;
   line-height: 1.5;
   height: 60%;
+    resize: none;
 }
 
 h1.userName{
